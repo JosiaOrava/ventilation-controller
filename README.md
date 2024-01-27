@@ -7,28 +7,39 @@ This manual will guide you through using the ventilation control system, includi
 1. [Modes](#modes)
 
     1.1 [Automatic mode (A)](#automatic-mode-a)
+
     1.2 [Manual mode (M)](#manual-mode-m)
+
     1.3 [Data/Debug mode (D)](#datadebug-mode-d)
 
 2. [Web UI](#web-ui)
 
     2.1 [Auto toggle](#auto-toggle)
+
     2.2 [Target Pascals slider](#target-pascals-slider)
+
     2.3 [Fan Speed slider](#fan-speed-slider)
+
     2.4 [Data display](#data-display)
+
     2.5 [Graph display](#graph-display)
+
     2.6 [Target Pressure alert](#target-pressure-alert)
 
 3. [Built-in LCD UI](#built-in-lcd-ui)
 
     3.1 [Buttons](#buttons)
+
     3.2 [Automatic Mode (A)](#automatic-mode-a-1)
+
     3.3 [Manual Mode (M)](#manual-mode-m-1)
+
     3.4 [Data/Debug Mode (D)](#datadebug-mode-d-1)
 
 4. [MQTT](#mqtt)
 
     4.1 [Settings message](#settings-message)
+    
     4.2 [Status message](#status-message)
 
 ## Modes
