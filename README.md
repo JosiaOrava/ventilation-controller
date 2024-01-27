@@ -1,6 +1,7 @@
 
 # Ventilation Controller
-This manual will guide you through using the ventilation control system, including the web UI and the built-in liquid crystal display. You will also learn about the MQTT messages used to control the system.
+
+This manual will walktrough our ventilation control system, including the web UI and the built-in liquid crystal display and how MQTT messages are used to control the system over internet. This project was done in school where we had access to isolated ventilation system that students could use.
 
 ### Table of Contents
 
@@ -39,8 +40,10 @@ This manual will guide you through using the ventilation control system, includi
 4. [MQTT](#mqtt)
 
     4.1 [Settings message](#settings-message)
-    
+
     4.2 [Status message](#status-message)
+
+5. [Credits](#credits)
 
 ## Modes
 
@@ -175,3 +178,9 @@ Here is an example of the status message:
 “auto”: 1,
 “error”: 0
 }`
+
+## Credits
+Our team that worked on this project:
+* [Josia Orava](https://github.com/JosiaOrava)
+* [Miro Tuovinen](https://github.com/1UPNuke)
+* Filippo Pruzzi
