@@ -1,7 +1,7 @@
 
 # Ventilation Controller
 
-This manual will walktrough our ventilation control system, including the web UI and the built-in liquid crystal display and how MQTT messages are used to control the system over internet. This project was done in school where we had access to isolated ventilation system that students could use.
+Ventilation controller lets you to set ether manually speed of fan or to automatically keep desired pascal levels. It works from local UI integrated in the system or trough internet with web UI. This manual will walktrough our ventilation control system, including the web UI and the built-in liquid crystal display and how MQTT messages are used to control the system over internet. This project was done in school where we had access to isolated ventilation system that students could use.
 
 ### Table of Contents
 
